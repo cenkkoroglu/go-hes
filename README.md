@@ -1,6 +1,6 @@
 # GoLang HES Kodu Sorgulama
 
-Go dilinde hazılmış HES uygulamasının servisleriyle çalışan (unoffical) HES kodu sorgulama uygulamasıdır. 
+Go dilinde hazılmış HES uygulamasının servisleriyle çalışan (unofficial) HES kodu sorgulama uygulamasıdır. 
 
 ![GO Hes](https://github.com/cenkkoroglu/go-hes/blob/master/screenshots/4.png?raw=true)
 
