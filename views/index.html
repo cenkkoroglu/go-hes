@@ -1,0 +1,22 @@
+{{template "partials/header" .}}
+<div class="container h-100">
+    <div class="row h-100 justify-content-center align-items-center">
+        <div class="col-6">
+            <div class="panel panel-info">
+                <div class="panel-heading">
+                    HES Kodu Sorgulama
+                </div>
+                <div class="panel-body">
+                    <form id="checkHes">
+                        <div class="form-group">
+                            <label for="hesCode">HES Kodu</label>
+                            <input type="text" class="form-control" id="hesCode" name="hesCode" placeholder="Hes kodunuz">
+                        </div>
+                        <button type="submit" class="btn btn-success btn-lg btn-block">Sorgula</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{{template "partials/footer" .}}
